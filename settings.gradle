@@ -1,0 +1,2 @@
+rootProject.name='Button Memory'
+include ':app'
